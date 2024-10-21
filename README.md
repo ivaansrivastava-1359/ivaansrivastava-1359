@@ -7,5 +7,5 @@ I Am Ivaan Srivastava
 
 [Figma](figma.com/@ivaansrivastava)
 
-[Discord]([https://discord.gg/tNpH53dZ](https://discord.gg/tNpH53dZ))
+[Discord]((https://discord.gg/tNpH53dZ))
 
